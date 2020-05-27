@@ -1,0 +1,2 @@
+# new a folder named 'data'
+We put our data in the folder
