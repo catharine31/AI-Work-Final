@@ -8,17 +8,16 @@
 </h1>
 
 - 資料蒐集:
-<br>
-  我們使用 nba-api(https://github.com/swar/nba_api) 搜集資料，接著做資料整理，所使用的資料為各隊伍和各球員在各場比賽中的戰績表現(例如投籃命中       率、進攻、防守等資訊)
-<br>
-    nba-api資料來源參考:  <br>
-    nba_api/docs/nba_api/stats/endpoints/playergamelog.md <br>
-    nba_api/docs/nba_api/stats/endpoints/boxscoreadvancedv2.md <br>
-    nba_api/docs/nba_api/stats/endpoints/teamgamelog.md <br>
+  <br>
+    我們使用 nba-api(https://github.com/swar/nba_api) 搜集資料，接著做資料整理，所使用的資料為各隊伍和各球員在各場比賽中的戰績表現(例如投籃命中       率、進攻、防守等資訊)
+  <br>
+      nba-api資料來源參考:  <br>
+      nba_api/docs/nba_api/stats/endpoints/playergamelog.md <br>
+      nba_api/docs/nba_api/stats/endpoints/boxscoreadvancedv2.md <br>
+      nba_api/docs/nba_api/stats/endpoints/teamgamelog.md <br>
  
 
-  <div>
-    資料整理:
+- 資料整理:
     <br>
     playergamelog資料中紀錄每個球員在每一場比賽中的一般數據 <br>
     team_game_table資料中記錄每支球隊在每一場比賽中的一般數據 <br>
@@ -28,6 +27,6 @@
     接著把playergamelog與AdvancedIndex根據球員與比賽整合成一個table， <br>
     接下來我們對上一步整合好的table根據球隊與比賽分群，計算每一群的標準差，得到的每支球隊在每一場比賽中的球員表現標準差， <br>
     
-  </div>
+
 
 
