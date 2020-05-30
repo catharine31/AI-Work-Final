@@ -12,8 +12,8 @@
     我們使用 nba-api(https://github.com/swar/nba_api) 搜集資料，接著做資料整理，所使用的資料為各隊伍和各球員在各場比賽中的戰績表現(例如投籃命中       率、進攻、防守等資訊)
     <br>
     nba-api資料來源參考:  nba_api/docs/nba_api/stats/endpoints/playergamelog.md <br>
-                 &nbsp;  nba_api/docs/nba_api/stats/endpoints/boxscoreadvancedv2.md <br>
-                 &nbsp;  nba_api/docs/nba_api/stats/endpoints/teamgamelog.md <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  nba_api/docs/nba_api/stats/endpoints/boxscoreadvancedv2.md <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  nba_api/docs/nba_api/stats/endpoints/teamgamelog.md <br>
   </div>  
   <div>
     資料整理:
