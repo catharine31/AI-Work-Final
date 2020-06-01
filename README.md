@@ -54,7 +54,9 @@
     - 資料收集_playergamelog.ipynb  <br>
     - 資料收集_team_game_table.ipynb  <br>
 <br>
-- data資料夾(將資料收集的結果存成 csv 檔放入此資料夾)<br>
+
+- data資料夾(將資料收集的結果存成 csv 檔放入此資料夾) <br>
+
 - 整理資料(讀取 data 資料夾的 csv 檔做資料整理) <br>
   - 整合playergamelog與AdvancedIndex.ipynb <br>
   - 把 Player_std 放進 team_game_table裡.ipynb <br>
