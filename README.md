@@ -46,6 +46,7 @@
 <h1>
   檔案說明：
 </h1>
+<br>
 - 資料收集(同時收集，沒有時間順序)
     - 資料收集_Advanced_index.ipynb
     - 資料收集_playergamelog.ipynb
