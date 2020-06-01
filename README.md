@@ -46,14 +46,14 @@
 <h1>
   檔案說明：
 </h1>
--資料收集(同時收集，沒有時間順序)
-  資料收集_Advanced_index.ipynb
-  資料收集_playergamelog.ipynb
-  資料收集_team_game_table.ipynb
--data資料夾(將資料收集的結果存成 csv 檔放入此資料夾)
--整理資料(讀取 data 資料夾的 csv 檔做資料整理)
-  整合playergamelog與AdvancedIndex.ipynb
-  把 Player_std 放進 team_game_table裡.ipynb
+<p>資料收集(同時收集，沒有時間順序)</p>
+  <li>資料收集_Advanced_index.ipynb</li>
+  <li>資料收集_playergamelog.ipynb</li>
+  <li>資料收集_team_game_table.ipynb</li>
+<p>data資料夾(將資料收集的結果存成 csv 檔放入此資料夾)</p>
+<p>整理資料(讀取 data 資料夾的 csv 檔做資料整理)</p>
+  <li>整合playergamelog與AdvancedIndex.ipynb</li>
+  <li>把 Player_std 放進 team_game_table裡.ipynb</li>
     
 
 
