@@ -10,6 +10,26 @@
   106306030 資管三 詹雅芸: 訓練模型、預測結果 <br>
   106306020 資管三 張芯慈: 資料蒐集、資料整理 <br>
   108363092 企研一 陳宇慈: 訓練模型、預測結果 <br>
+  
+<h1>
+  檔案說明：
+</h1>
+
+<br>
+
+- 資料收集: (同時收集，沒有時間順序)
+    - 資料收集_Advanced_index.ipynb <br>
+    - 資料收集_playergamelog.ipynb  <br>
+    - 資料收集_team_game_table.ipynb  <br>
+<br>
+
+- data資料夾(將資料收集的結果存成 csv 檔放入此資料夾) <br>
+
+- 整理資料(讀取 data 資料夾的 csv 檔做資料整理) <br>
+  - 整合playergamelog與AdvancedIndex.ipynb <br>
+  - 把 Player_std 放進 team_game_table裡.ipynb <br>
+    
+
 <h1>
   內容:
 </h1>
@@ -43,24 +63,6 @@
 - 模型架構:
   <br>
   
-<h1>
-  檔案說明：
-</h1>
-
-<br>
-
-- 資料收集: (同時收集，沒有時間順序)
-    - 資料收集_Advanced_index.ipynb <br>
-    - 資料收集_playergamelog.ipynb  <br>
-    - 資料收集_team_game_table.ipynb  <br>
-<br>
-
-- data資料夾(將資料收集的結果存成 csv 檔放入此資料夾) <br>
-
-- 整理資料(讀取 data 資料夾的 csv 檔做資料整理) <br>
-  - 整合playergamelog與AdvancedIndex.ipynb <br>
-  - 把 Player_std 放進 team_game_table裡.ipynb <br>
-    
 
 
 
